@@ -8,3 +8,8 @@
 	url = https://github.com/julieaubert/chmm
 	shallow = true
 	registered = true
+[submodule "cobiclust"]
+	path = cobiclust
+	url = https://github.com/julieaubert/cobiclust
+	shallow = true
+	registered = true

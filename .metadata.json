@@ -2,5 +2,9 @@
   {
     "package": "CHMM",
     "oncran": true
+  },
+  {
+    "package": "cobiclust",
+    "oncran": true
   }
 ]
